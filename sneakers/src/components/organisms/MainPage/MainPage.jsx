@@ -1,5 +1,5 @@
 import React from "react";
-import PageHeader from "../../moleculs/pageHeader/pageHeader";
+import PageHeader from "../../moleculs/PageHeader/PageHeader";
 import ImagesComp from "../../moleculs/ImagesComp/ImagesComp";
 import Description from "../../moleculs/Description/Description";
 
