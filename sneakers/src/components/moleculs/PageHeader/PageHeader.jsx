@@ -1,8 +1,8 @@
 import React from 'react'
-import SneakerLogo from '../../atoms/sneakerLogo/sneakerLogo'
-import CartIcon from '../../atoms/cartIcon/cartIcon'
-import HeaderElement from '../../atoms/headerElement/headerElement'
-import Avatar from '../../atoms/avatar/avatar'
+import SneakerLogo from '../../atoms/SneakerLogo/SneakerLogo'
+import CartIcon from '../../atoms/CartIcon/CartIcon'
+import HeaderElement from '../../atoms/HeaderElement/HeaderElement'
+import Avatar from '../../atoms/Avatar/Avatar'
 import '../../../App.css'
 
 const PageHeader = () => {
